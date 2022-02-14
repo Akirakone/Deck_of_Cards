@@ -1,0 +1,4 @@
+C:\Users\Akira\Desktop\C#\Deck_of_Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csprojAssemblyReference.cache
+C:\Users\Akira\Desktop\C#\Deck_of_Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\Akira\Desktop\C#\Deck_of_Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\Akira\Desktop\C#\Deck_of_Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
